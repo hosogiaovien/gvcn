@@ -1,0 +1,6 @@
+{
+  "name": "THI ĐUA LỚP - Quản Lý Thi Đua Trường Học",
+  "description": "Hệ thống quản lý toàn diện hoạt động thi đua học sinh, tổ và lớp học cho Ban Giám Hiệu, Tổng Phụ Trách, Giám Thị, GVCN và Tổ Trưởng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
